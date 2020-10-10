@@ -369,6 +369,7 @@ button:focus {
 	text-align: center;
 }
 
+
 .mu-featured-slider-content h1 {
 	color: #fff;
 	font-size: 50px;
@@ -384,6 +385,11 @@ button:focus {
 .mu-featured-slider-content .mu-primary-btn{
 	margin-top: 20px;
 }
+
+.mu-featured-slider-content img {
+	width:500px;
+	height:300px;
+	}
 
 .slick-dotted.slick-slider{
 	margin-bottom: 0;
@@ -815,10 +821,17 @@ button:focus {
 }
 
 .mu-team-profile {
-	display: inline;
+	/*display: inline;
 	float: left;
 	position: relative;
-	width: 100%;
+	width: 100%;*/
+
+	
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
 }
 
 .mu-team-info {
