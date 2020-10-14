@@ -1100,6 +1100,9 @@ button:focus {
 .mu-contact-right address p {
 	font-size: 16px;
 }
+.mu-contact-right p a {
+	color: #4568DC;
+}
 
 .mu-contact-right address p i{
 	margin-right: 10px;
