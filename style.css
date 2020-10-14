@@ -1073,62 +1073,7 @@ button:focus {
 	width: 100%;
 }
 
-.mu-contact-form .form-group input {
-	background: transparent;
-	color: #333;
-	font-size: 15px;
-	border: 1px solid #333;
-	border-radius: 0;
-	height: 45px;
-	margin-bottom: 24px;
-}
 
-.mu-contact-form .form-group textarea{
-	color: #333;
-	background: transparent;
-	border: 1px solid #333;
-	border-radius: 0;
-	font-size: 18px;
-	padding: 10px;
-	height: 190px;
-}
-
-.mu-contact-form .form-control:focus {
-	background-color: #fff;
-    outline: 0;
-    box-shadow: none;    
-} ©
-
-.mu-contact-form .form-control::-webkit-input-placeholder {
-	color: #888;
-	font-size: 15px;
-}
-
-.mu-contact-form .form-control:-moz-placeholder { /* Firefox 18- */
-	color: #888;
-	font-size: 15px; 
-}
-
-.mu-contact-form .form-control::-moz-placeholder {  /* Firefox 19+ */
-	color: #888;
-	font-size: 15px;
-}
-
-.mu-contact-form .form-control:-ms-input-placeholder {  
-	color: #888;
-	font-size: 15px;
-}
-
-.mu-contact-form button {
-	float: left;
-	margin-left: 0;
-	border-radius: 0px;
-}
-
-.mu-contact-form .button-default::after,
-.mu-contact-form .button-default > span {
-	padding: 12px 40px;  
-}
 
 .mu-contact-right {
 	display: inline;
@@ -1138,11 +1083,16 @@ button:focus {
 
 .mu-contact-right h4{
 	font-size: 24px;
+	margin: 30px 0 30px 30px;
 }
+ .mu-contact-right p{
+ 	font-size: 16px;
+	margin: 30px 0 30px 30px;
+ }
 
 .mu-contact-right address {
-	padding-left: 0;
-	margin-top: 15px;
+	
+	
 	display: block;
 	width: 100%;
 }
@@ -1317,10 +1267,6 @@ button:focus {
 		width: 100%;
 	}
 
-	.mu-contact-right {
-		margin-top: 50px;
-	}
-	
 		
 }
 
@@ -1450,12 +1396,13 @@ button:focus {
 		line-height: 35px;
 	}
 
-	.mu-contact-form button {
-		width: 100%;
-	}
 
 	.filtr-item h4 {
 		font-size: 14px;
+	}
+	.mu-contact-right h4, .mu-contact-right p, .mu-contact-right address p{
+		font-size: 10px;
+		margin-top: 0;
 	}
 			
 	
