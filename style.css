@@ -1,4 +1,4 @@
-﻿
+﻿﻿
 /*
 Template Name: Biziness	
 Author: MarkUps
@@ -367,6 +367,7 @@ button:focus {
 	bottom: 0;
 	top: 35%;
 	text-align: center;
+
 }
 
 
@@ -387,8 +388,8 @@ button:focus {
 }
 
 .mu-featured-slider-content img {
-	width:500px;
-	height:300px;
+	 width:60%;
+
 	}
 
 .slick-dotted.slick-slider{
@@ -1408,6 +1409,10 @@ button:focus {
 		font-size: 25px;
 		margin-top: 0px;
 	}
+	.mu-featured-slider-content img {
+		display: none;
+	}
+
 
 	.navbar-toggle {
 		padding: 7px 8px;
@@ -1464,7 +1469,8 @@ button:focus {
 	}
 
 	.mu-featured-slider-content p,
-	.mu-featured-slider-content .mu-primary-btn {
+	.mu-featured-slider-content .mu-primary-btn, 
+	.mu-featured-slider-content img {
 		display: none;
 	}
 
@@ -1472,7 +1478,6 @@ button:focus {
 		font-size: 18px;
 		margin-bottom: 0;
 	}
-
 	.mu-filter-item-content {
 		padding-top: 25%;
 		padding-left: 5px;
