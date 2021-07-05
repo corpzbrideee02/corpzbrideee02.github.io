@@ -1,1 +1,167 @@
-[{"ID":"IX-0001","PNAME": "Supercycle Pathway Women's Comfort Bike","GNAME": "Supercycle Pathway Women's Comfort Bike","COSTPRICE": "219.99","MSRP": "229.99","QTYONHAND": "20","DESC": "Supercycle Pathway Women's Comfort Bike with an 18 inches, 45.7 cm) high-tensile steel frame","QTYBACKORDER": "10","BRAND": "Supercycle"},{"ID":"IX-0002","PNAME": "Supercycle Outlook Dual Suspension Mountain Bike","GNAME": "Supercycle Outlook Dual Suspension Mountain Bike","COSTPRICE": "329.99","MSRP": "399.99","QTYONHAND": "3","DESC": "Supercycle Outlook Dual Suspension Mountain Bike features a steel 16 inches (40 cm) frame","QTYBACKORDER": "15","BRAND":"Supercycle"},{"ID":"IX-0003","PNAME": "Supercycle Pathway Men's Comfort Bike","GNAME": "Supercycle Pathway Men's Comfort Bike","COSTPRICE": "219.99","MSRP": "219.99","QTYONHAND": "5","DESC": "Supercycle Pathway Men's Comfort Bike with a high-tensile steel frame","QTYBACKORDER": "4","BRAND": "Supercycle"},{"ID":"IX-0004","PNAME": "Supercycle Camellia Comfort Bike","GNAME": "Supercycle Camellia Comfort Bike","COSTPRICE": "249.99","MSRP": "259.99","QTYONHAND": "20","DESC": "Supercycle Camellia Comfort Bike with a steel 16 inches (40 cm) frame","QTYBACKORDER": "14","BRAND": "Supercycle"},{"ID":"IX-0005","PNAME": "Supercycle Classic Cruiser Men's Retro Comfort Bike","GNAME": "Supercycle Classic Cruiser Men's Retro Comfort Bike","COSTPRICE": "199.99","MSRP": "199.99","QTYONHAND": "10","DESC": "Supercycle Classic Cruiser Men's Retro Comfort Bike with a high-tensile steel frame","QTYBACKORDER": "5","BRAND": "Supercycle"},{"ID":"IX-0006","PNAME": "Anthem Advanced Pro 29 2","GNAME": "Anthem Advanced Pro 29 2","COSTPRICE": "4899.00","MSRP": "4999.00","QTYONHAND": "20","DESC": "This pro-level, fully composite XC flyer blends trail-smoothing Maestro suspension with the added control and stability of progressive 29er geometry. When XC racing is your game, this is your ticket to the podium.","QTYBACKORDER": "10","BRAND": "Giant"},{"ID":"IX-0007","PNAME": "Reign 29 2","GNAME": "Reign 29 2","COSTPRICE": "3699.00","MSRP": "3699.00","QTYONHAND": "13","DESC": "Steep drops, blind lines, chunky singletrack through roots and rocks. This fierce 29er helps you tame the wildest enduro terrain with smooth suspension and confident handling.","QTYBACKORDER": "15","BRAND": "Giant"},{"ID":"IX-0008","PNAME": "Contend AR 1","GNAME": "Contend AR 1","COSTPRICE": "2299.00","MSRP": "2399.00","QTYONHAND": "5","DESC": "With its balanced, smooth riding frame and components, powerful disc brakes and high-volume tubeless tires, Contend AR goes from fast pavement to bumpy backroads with confidence and control.","QTYBACKORDER": "9","BRAND": "Giant"},{"ID":"IX-0009","PNAME": "Trinity Advanced Pro 1","GNAME": "Trinity Advanced Pro 1","COSTPRICE": "7299.99","MSRP": "7399.99","QTYONHAND": "20","DESC": "When you’re chasing a new PR, every advantage counts. Aerodynamics, efficiency, comfort and it—it all has to be just right. Engineered to meet the demands of professional triathletes and time trial racers, this speeding bullet has it all.","QTYBACKORDER": "14","BRAND": "Giant"},{"ID":"IX-0010","PNAME": "Escape 2 City Disc","GNAME": "Escape 2 City Disc","COSTPRICE": "829.00","MSRP": "859.00","QTYONHAND": "10","DESC": "This versatile flat-bar all-rounder can get your legs spinning and motivate you to be active every day. Commute to work, ride to class, find new adventures in your daily routine. ","QTYBACKORDER": "15","BRAND": "Giant"},{"ID":"IX-0011","PNAME": "E-Caliber 9.6","GNAME": "E-Caliber 9.6","COSTPRICE": "8699.99","MSRP": "8999.99","QTYONHAND": "10","DESC": "E-Caliber 9.6 is a carbon electric mountain bike that rides—and looks—like a traditional cross country bike. The compact Fazua drive system lets you do more of what you love with subtle, natural-feeling assist that doesn't overpower the physical and technical challenges of the trail.","QTYBACKORDER": "10","BRAND": "Trek"},{"ID":"IX-0012","PNAME": "Dual Sport 1","GNAME": "Dual Sport 1","COSTPRICE": "759.99","MSRP": "799.99","QTYONHAND": "13","DESC": "Dual Sport 1 is a hybrid bike in the true sense of the term: it excels on a variety of surfaces, and can take you from smooth pavement to light off-road trails in a single ride. A lightweight frame, suspension fork, and all-terrain tires give Dual Sport 1 an incredible amount of capability on recreational fitness rides.","QTYBACKORDER": "15","BRAND": "Trek"},{"ID":"IX-0013","PNAME": "FX 2 Disc","GNAME": "FX 2 Disc","COSTPRICE": "849.99","MSRP": "849.99","QTYONHAND": "5","DESC": "FX 2 Disc is a stylish and versatile hybrid bike with disc brakes that let you stop on a dime and ask for change, even when the weather isn't cooperating. Train, commute, or ride for fun with the lightweight Alpha Gold Aluminum frame, 24 speeds, and semi-skinny tires that are fast on the road and stable on loose terrain.","QTYBACKORDER": "8","BRAND": "Trek"},{"ID":"IX-0014","PNAME": "Domane+ LT","GNAME": "Domane+ LT","COSTPRICE": "8149.99","MSRP": "8149.99","QTYONHAND": "2","DESC": "Domane+ LT is a carbon drop-bar electric bike designed for roadies who want an authentic road bike experience with an extra boost. The sleek and efficient Fazua drive system kicks things up a notch when you need it—like riding into a headwind or beating your buddy up a climb—but doesn't drag or hold you back when it's not in use.","QTYBACKORDER": "14","BRAND": "Trek"},{"ID":"IX-0015","PNAME": "Rail 5","GNAME": "Rail 5","COSTPRICE": "7349.99","MSRP": "7349.99","QTYONHAND": "18","DESC": "Rail 5 is an electric mountain bike built for ripping the big stuff. It features the same high-end trail tech as our analog trail bikes, plus a powerful new Bosch drive system that's basically like having your own shuttle.","QTYBACKORDER": "12","BRAND": "Trek"}]
+[
+  {
+    "ID": "IX-0001",
+    "PNAME": "Supercycle Pathway Women's Comfort Bike",
+    "GNAME": "Supercycle Pathway Women's Comfort Bike",
+    "COSTPRICE": "219.99",
+    "MSRP": "229.99",
+    "QTYONHAND": "20",
+    "DESC": "Supercycle Pathway Women's Comfort Bike with an 18 inches, 45.7 cm) high-tensile steel frame",
+    "QTYBACKORDER": "10",
+    "BRAND": "Supercycle"
+  },
+  {
+    "ID": "IX-0002",
+    "PNAME": "Supercycle Outlook Dual Suspension Mountain Bike",
+    "GNAME": "Supercycle Outlook Dual Suspension Mountain Bike",
+    "COSTPRICE": "329.99",
+    "MSRP": "399.99",
+    "QTYONHAND": "3",
+    "DESC": "Supercycle Outlook Dual Suspension Mountain Bike features a steel 16 inches (40 cm) frame",
+    "QTYBACKORDER": "15",
+    "BRAND": "Supercycle"
+  },
+  {
+    "ID": "IX-0003",
+    "PNAME": "Supercycle Pathway Men's Comfort Bike",
+    "GNAME": "Supercycle Pathway Men's Comfort Bike",
+    "COSTPRICE": "219.99",
+    "MSRP": "219.99",
+    "QTYONHAND": "5",
+    "DESC": "Supercycle Pathway Men's Comfort Bike with a high-tensile steel frame",
+    "QTYBACKORDER": "4",
+    "BRAND": "Supercycle"
+  },
+  {
+    "ID": "IX-0004",
+    "PNAME": "Supercycle Camellia Comfort Bike",
+    "GNAME": "Supercycle Camellia Comfort Bike",
+    "COSTPRICE": "249.99",
+    "MSRP": "259.99",
+    "QTYONHAND": "20",
+    "DESC": "Supercycle Camellia Comfort Bike with a steel 16 inches (40 cm) frame",
+    "QTYBACKORDER": "14",
+    "BRAND": "Supercycle"
+  },
+  {
+    "ID": "IX-0005",
+    "PNAME": "Supercycle Classic Cruiser Men's Retro Comfort Bike",
+    "GNAME": "Supercycle Classic Cruiser Men's Retro Comfort Bike",
+    "COSTPRICE": "199.99",
+    "MSRP": "199.99",
+    "QTYONHAND": "10",
+    "DESC": "Supercycle Classic Cruiser Men's Retro Comfort Bike with a high-tensile steel frame",
+    "QTYBACKORDER": "5",
+    "BRAND": "Supercycle"
+  },
+  {
+    "ID": "IX-0006",
+    "PNAME": "Anthem Advanced Pro 29 2",
+    "GNAME": "Anthem Advanced Pro 29 2",
+    "COSTPRICE": "4899.00",
+    "MSRP": "4999.00",
+    "QTYONHAND": "20",
+    "DESC": "This pro-level, fully composite XC flyer blends trail-smoothing Maestro suspension with the added control and stability of progressive 29er geometry. When XC racing is your game, this is your ticket to the podium.",
+    "QTYBACKORDER": "10",
+    "BRAND": "Giant"
+  },
+  {
+    "ID": "IX-0007",
+    "PNAME": "Reign 29 2",
+    "GNAME": "Reign 29 2",
+    "COSTPRICE": "3699.00",
+    "MSRP": "3699.00",
+    "QTYONHAND": "13",
+    "DESC": "Steep drops, blind lines, chunky singletrack through roots and rocks. This fierce 29er helps you tame the wildest enduro terrain with smooth suspension and confident handling.",
+    "QTYBACKORDER": "15",
+    "BRAND": "Giant"
+  },
+  {
+    "ID": "IX-0008",
+    "PNAME": "Contend AR 1",
+    "GNAME": "Contend AR 1",
+    "COSTPRICE": "2299.00",
+    "MSRP": "2399.00",
+    "QTYONHAND": "5",
+    "DESC": "With its balanced, smooth riding frame and components, powerful disc brakes and high-volume tubeless tires, Contend AR goes from fast pavement to bumpy backroads with confidence and control.",
+    "QTYBACKORDER": "9",
+    "BRAND": "Giant"
+  },
+  {
+    "ID": "IX-0009",
+    "PNAME": "Trinity Advanced Pro 1",
+    "GNAME": "Trinity Advanced Pro 1",
+    "COSTPRICE": "7299.99",
+    "MSRP": "7399.99",
+    "QTYONHAND": "20",
+    "DESC": "When you’re chasing a new PR, every advantage counts. Aerodynamics, efficiency, comfort and it—it all has to be just right. Engineered to meet the demands of professional triathletes and time trial racers, this speeding bullet has it all.",
+    "QTYBACKORDER": "14",
+    "BRAND": "Giant"
+  },
+  {
+    "ID": "IX-0010",
+    "PNAME": "Escape 2 City Disc",
+    "GNAME": "Escape 2 City Disc",
+    "COSTPRICE": "829.00",
+    "MSRP": "859.00",
+    "QTYONHAND": "10",
+    "DESC": "This versatile flat-bar all-rounder can get your legs spinning and motivate you to be active every day. Commute to work, ride to class, find new adventures in your daily routine. ",
+    "QTYBACKORDER": "15",
+    "BRAND": "Giant"
+  },
+  {
+    "ID": "IX-0011",
+    "PNAME": "E-Caliber 9.6",
+    "GNAME": "e-caliber.png",
+    "COSTPRICE": "8699.99",
+    "MSRP": "8999.99",
+    "QTYONHAND": "10",
+    "DESC": "E-Caliber 9.6 is a carbon electric mountain bike that rides—and looks—like a traditional cross country bike. The compact Fazua drive system lets you do more of what you love with subtle, natural-feeling assist that doesn't overpower the physical and technical challenges of the trail.",
+    "QTYBACKORDER": "10",
+    "BRAND": "Trek"
+  },
+  {
+    "ID": "IX-0012",
+    "PNAME": "Dual Sport 1",
+    "GNAME": "dual_sport1.png",
+    "COSTPRICE": "759.99",
+    "MSRP": "799.99",
+    "QTYONHAND": "13",
+    "DESC": "Dual Sport 1 is a hybrid bike in the true sense of the term: it excels on a variety of surfaces, and can take you from smooth pavement to light off-road trails in a single ride. A lightweight frame, suspension fork, and all-terrain tires give Dual Sport 1 an incredible amount of capability on recreational fitness rides.",
+    "QTYBACKORDER": "15",
+    "BRAND": "Trek"
+  },
+  {
+    "ID": "IX-0013",
+    "PNAME": "Session 8 29 GX",
+    "GNAME": "Session829_GX.png",
+    "COSTPRICE": "6499.99",
+    "MSRP": "6599.99",
+    "QTYONHAND": "5",
+    "DESC": "Session 8 is a downhill mountain bike with a robust alloy frame and high-pivot suspension design that keeps you nimble, planted, and blazing fast on even the most punishing runs.",
+    "QTYBACKORDER": "8",
+    "BRAND": "Trek"
+  },
+  {
+    "ID": "IX-0014",
+    "PNAME": "Domane+ LT",
+    "GNAME": "domane_plusLT.png",
+    "COSTPRICE": "8149.99",
+    "MSRP": "8149.99",
+    "QTYONHAND": "2",
+    "DESC": "Domane+ LT is a carbon drop-bar electric bike designed for roadies who want an authentic road bike experience with an extra boost. The sleek and efficient Fazua drive system kicks things up a notch when you need it—like riding into a headwind or beating your buddy up a climb—but doesn't drag or hold you back when it's not in use.",
+    "QTYBACKORDER": "14",
+    "BRAND": "Trek"
+  },
+  {
+    "ID": "IX-0015",
+    "PNAME": "Rail 5",
+    "GNAME": "rail_5.png",
+    "COSTPRICE": "7349.99",
+    "MSRP": "7349.99",
+    "QTYONHAND": "18",
+    "DESC": "Rail 5 is an electric mountain bike built for ripping the big stuff. It features the same high-end trail tech as our analog trail bikes, plus a powerful new Bosch drive system that's basically like having your own shuttle.",
+    "QTYBACKORDER": "12",
+    "BRAND": "Trek"
+  }
+]
