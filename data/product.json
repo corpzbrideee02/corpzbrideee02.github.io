@@ -2,7 +2,7 @@
   {
     "ID": "IX-0001",
     "PNAME": "Supercycle Pathway Women's Comfort Bike",
-    "GNAME": "Supercycle Pathway Women's Comfort Bike",
+    "GNAME": "supercycle_women_comfort.png",
     "COSTPRICE": "219.99",
     "MSRP": "219.99",
     "QTYONHAND": "20",
@@ -13,7 +13,7 @@
   {
     "ID": "IX-0002",
     "PNAME": "Supercycle Outlook Dual Suspension Mountain Bike",
-    "GNAME": "Supercycle Outlook Dual Suspension Mountain Bike",
+    "GNAME": "supercycle_dual_sus_mountain.png",
     "COSTPRICE": "329.99",
     "MSRP": "329.99",
     "QTYONHAND": "3",
@@ -24,7 +24,7 @@
   {
     "ID": "IX-0003",
     "PNAME": "Supercycle Pathway Men's Comfort Bike",
-    "GNAME": "Supercycle Pathway Men's Comfort Bike",
+    "GNAME": "supercycle_men_comfort.png",
     "COSTPRICE": "219.99",
     "MSRP": "219.99",
     "QTYONHAND": "5",
@@ -35,7 +35,7 @@
   {
     "ID": "IX-0004",
     "PNAME": "Supercycle Camellia Comfort Bike",
-    "GNAME": "Supercycle Camellia Comfort Bike",
+    "GNAME": "supercycle_camellia_comfort.png",
     "COSTPRICE": "249.99",
     "MSRP": "249.99",
     "QTYONHAND": "20",
@@ -46,7 +46,7 @@
   {
     "ID": "IX-0005",
     "PNAME": "Supercycle Classic Cruiser Men's Retro Comfort Bike",
-    "GNAME": "Supercycle Classic Cruiser Men's Retro Comfort Bike",
+    "GNAME": "supercycle_classic_cruiser_men.png",
     "COSTPRICE": "199.99",
     "MSRP": "199.99",
     "QTYONHAND": "10",
@@ -57,7 +57,7 @@
   {
     "ID": "IX-0006",
     "PNAME": "Anthem Advanced Pro 29 2",
-    "GNAME": "Anthem Advanced Pro 29 2",
+    "GNAME": "anthem_advanced_pro292.png",
     "COSTPRICE": "4999.00",
     "MSRP": "4999.00",
     "QTYONHAND": "20",
@@ -68,7 +68,7 @@
   {
     "ID": "IX-0007",
     "PNAME": "Reign 29 2",
-    "GNAME": "Reign 29 2",
+    "GNAME": "reign_292.png",
     "COSTPRICE": "3699.00",
     "MSRP": "3699.00",
     "QTYONHAND": "13",
@@ -79,7 +79,7 @@
   {
     "ID": "IX-0008",
     "PNAME": "Contend AR 1",
-    "GNAME": "Contend AR 1",
+    "GNAME": "contend_AR1.png",
     "COSTPRICE": "2299.00",
     "MSRP": "2299.00",
     "QTYONHAND": "5",
@@ -90,7 +90,7 @@
   {
     "ID": "IX-0009",
     "PNAME": "Trinity Advanced Pro 1",
-    "GNAME": "Trinity Advanced Pro 1",
+    "GNAME": "trinity_advanced_pro1.png",
     "COSTPRICE": "7299.99",
     "MSRP": "7299.99",
     "QTYONHAND": "20",
@@ -101,7 +101,7 @@
   {
     "ID": "IX-0010",
     "PNAME": "Escape 2 City Disc",
-    "GNAME": "Escape 2 City Disc",
+    "GNAME": "escape2_cityDisc.png",
     "COSTPRICE": "829.00",
     "MSRP": "829.00",
     "QTYONHAND": "10",
