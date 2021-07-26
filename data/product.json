@@ -82,9 +82,9 @@
     "GNAME": "contend_AR1.png",
     "COSTPRICE": "2299.00",
     "MSRP": "2299.00",
-    "QTYONHAND": "5",
+    "QTYONHAND": "1",
     "DESC": "With its balanced, smooth riding frame and components, powerful disc brakes and high-volume tubeless tires, Contend AR goes from fast pavement to bumpy backroads with confidence and control.",
-    "QTYBACKORDER": "9",
+    "QTYBACKORDER": "0",
     "BRAND": "Giant"
   },
   {
@@ -126,9 +126,9 @@
     "GNAME": "dual_sport1.png",
     "COSTPRICE": "799.99",
     "MSRP": "799.99",
-    "QTYONHAND": "13",
+    "QTYONHAND": "0",
     "DESC": "Dual Sport 1 is a hybrid bike in the true sense of the term: it excels on a variety of surfaces, and can take you from smooth pavement to light off-road trails in a single ride. A lightweight frame, suspension fork, and all-terrain tires give Dual Sport 1 an incredible amount of capability on recreational fitness rides.",
-    "QTYBACKORDER": "15",
+    "QTYBACKORDER": "1",
     "BRAND": "Trek"
   },
   {
