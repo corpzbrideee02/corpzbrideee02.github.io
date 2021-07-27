@@ -1,58 +1,58 @@
 [
-  {
+   {
     "ID": "IX-0001",
-    "PNAME": "Supercycle Pathway Women's Comfort Bike",
-    "GNAME": "supercycle_women_comfort.png",
-    "COSTPRICE": "219.99",
-    "MSRP": "219.99",
-    "QTYONHAND": "20",
-    "DESC": "Supercycle Pathway Women's Comfort Bike with an 18 inches, 45.7 cm) high-tensile steel frame",
-    "QTYBACKORDER": "10",
-    "BRAND": "Supercycle"
+    "PNAME": "E-Caliber 9.6",
+    "GNAME": "e-caliber.png",
+    "COSTPRICE": "509.99",
+    "MSRP": "509.99",
+    "QTYONHAND": "1",
+    "DESC": "E-Caliber 9.6 is a carbon electric mountain bike that rides—and looks—like a traditional cross country bike. The compact Fazua drive system lets you do more of what you love with subtle, natural-feeling assist that doesn't overpower the physical and technical challenges of the trail.",
+    "QTYBACKORDER": "0",
+    "BRAND": "Trek"
   },
   {
     "ID": "IX-0002",
-    "PNAME": "Supercycle Outlook Dual Suspension Mountain Bike",
-    "GNAME": "supercycle_dual_sus_mountain.png",
-    "COSTPRICE": "329.99",
-    "MSRP": "329.99",
-    "QTYONHAND": "3",
-    "DESC": "Supercycle Outlook Dual Suspension Mountain Bike features a steel 16 inches (40 cm) frame",
-    "QTYBACKORDER": "15",
-    "BRAND": "Supercycle"
+    "PNAME": "Dual Sport 1",
+    "GNAME": "dual_sport1.png",
+    "COSTPRICE": "599.99",
+    "MSRP": "599.99",
+    "QTYONHAND": "1",
+    "DESC": "Dual Sport 1 is a hybrid bike in the true sense of the term: it excels on a variety of surfaces, and can take you from smooth pavement to light off-road trails in a single ride. A lightweight frame, suspension fork, and all-terrain tires give Dual Sport 1 an incredible amount of capability on recreational fitness rides.",
+    "QTYBACKORDER": "0",
+    "BRAND": "Trek"
   },
   {
     "ID": "IX-0003",
-    "PNAME": "Supercycle Pathway Men's Comfort Bike",
-    "GNAME": "supercycle_men_comfort.png",
-    "COSTPRICE": "219.99",
-    "MSRP": "219.99",
+    "PNAME": "Session 8 29 GX",
+    "GNAME": "Session829_GX.png",
+    "COSTPRICE": "6499.99",
+    "MSRP": "6499.99",
     "QTYONHAND": "5",
-    "DESC": "Supercycle Pathway Men's Comfort Bike with a high-tensile steel frame",
-    "QTYBACKORDER": "4",
-    "BRAND": "Supercycle"
+    "DESC": "Session 8 is a downhill mountain bike with a robust alloy frame and high-pivot suspension design that keeps you nimble, planted, and blazing fast on even the most punishing runs.",
+    "QTYBACKORDER": "8",
+    "BRAND": "Trek"
   },
   {
     "ID": "IX-0004",
-    "PNAME": "Supercycle Camellia Comfort Bike",
-    "GNAME": "supercycle_camellia_comfort.png",
-    "COSTPRICE": "249.99",
-    "MSRP": "249.99",
-    "QTYONHAND": "20",
-    "DESC": "Supercycle Camellia Comfort Bike with a steel 16 inches (40 cm) frame",
+    "PNAME": "Domane+ LT",
+    "GNAME": "domane_plusLT.png",
+    "COSTPRICE": "8149.99",
+    "MSRP": "8149.99",
+    "QTYONHAND": "2",
+    "DESC": "Domane+ LT is a carbon drop-bar electric bike designed for roadies who want an authentic road bike experience with an extra boost. The sleek and efficient Fazua drive system kicks things up a notch when you need it—like riding into a headwind or beating your buddy up a climb—but doesn't drag or hold you back when it's not in use.",
     "QTYBACKORDER": "14",
-    "BRAND": "Supercycle"
+    "BRAND": "Trek"
   },
   {
     "ID": "IX-0005",
-    "PNAME": "Supercycle Classic Cruiser Men's Retro Comfort Bike",
-    "GNAME": "supercycle_classic_cruiser_men.png",
-    "COSTPRICE": "199.99",
-    "MSRP": "199.99",
-    "QTYONHAND": "10",
-    "DESC": "Supercycle Classic Cruiser Men's Retro Comfort Bike with a high-tensile steel frame",
-    "QTYBACKORDER": "5",
-    "BRAND": "Supercycle"
+    "PNAME": "Rail 5",
+    "GNAME": "rail_5.png",
+    "COSTPRICE": "7349.99",
+    "MSRP": "7349.99",
+    "QTYONHAND": "18",
+    "DESC": "Rail 5 is an electric mountain bike built for ripping the big stuff. It features the same high-end trail tech as our analog trail bikes, plus a powerful new Bosch drive system that's basically like having your own shuttle.",
+    "QTYBACKORDER": "12",
+    "BRAND": "Trek"
   },
   {
     "ID": "IX-0006",
@@ -109,59 +109,59 @@
     "QTYBACKORDER": "15",
     "BRAND": "Giant"
   },
-  {
+{
     "ID": "IX-0011",
-    "PNAME": "E-Caliber 9.6",
-    "GNAME": "e-caliber.png",
-    "COSTPRICE": "8699.99",
-    "MSRP": "8699.99",
-    "QTYONHAND": "10",
-    "DESC": "E-Caliber 9.6 is a carbon electric mountain bike that rides—and looks—like a traditional cross country bike. The compact Fazua drive system lets you do more of what you love with subtle, natural-feeling assist that doesn't overpower the physical and technical challenges of the trail.",
+    "PNAME": "Supercycle Pathway Women's Comfort Bike",
+    "GNAME": "supercycle_women_comfort.png",
+    "COSTPRICE": "219.99",
+    "MSRP": "219.99",
+    "QTYONHAND": "20",
+    "DESC": "Supercycle Pathway Women's Comfort Bike with an 18 inches, 45.7 cm) high-tensile steel frame",
     "QTYBACKORDER": "10",
-    "BRAND": "Trek"
+    "BRAND": "Supercycle"
   },
   {
     "ID": "IX-0012",
-    "PNAME": "Dual Sport 1",
-    "GNAME": "dual_sport1.png",
-    "COSTPRICE": "799.99",
-    "MSRP": "799.99",
-    "QTYONHAND": "0",
-    "DESC": "Dual Sport 1 is a hybrid bike in the true sense of the term: it excels on a variety of surfaces, and can take you from smooth pavement to light off-road trails in a single ride. A lightweight frame, suspension fork, and all-terrain tires give Dual Sport 1 an incredible amount of capability on recreational fitness rides.",
-    "QTYBACKORDER": "1",
-    "BRAND": "Trek"
+    "PNAME": "Supercycle Outlook Dual Suspension Mountain Bike",
+    "GNAME": "supercycle_dual_sus_mountain.png",
+    "COSTPRICE": "329.99",
+    "MSRP": "329.99",
+    "QTYONHAND": "3",
+    "DESC": "Supercycle Outlook Dual Suspension Mountain Bike features a steel 16 inches (40 cm) frame",
+    "QTYBACKORDER": "15",
+    "BRAND": "Supercycle"
   },
   {
     "ID": "IX-0013",
-    "PNAME": "Session 8 29 GX",
-    "GNAME": "Session829_GX.png",
-    "COSTPRICE": "6499.99",
-    "MSRP": "6499.99",
+    "PNAME": "Supercycle Pathway Men's Comfort Bike",
+    "GNAME": "supercycle_men_comfort.png",
+    "COSTPRICE": "219.99",
+    "MSRP": "219.99",
     "QTYONHAND": "5",
-    "DESC": "Session 8 is a downhill mountain bike with a robust alloy frame and high-pivot suspension design that keeps you nimble, planted, and blazing fast on even the most punishing runs.",
-    "QTYBACKORDER": "8",
-    "BRAND": "Trek"
+    "DESC": "Supercycle Pathway Men's Comfort Bike with a high-tensile steel frame",
+    "QTYBACKORDER": "4",
+    "BRAND": "Supercycle"
   },
   {
     "ID": "IX-0014",
-    "PNAME": "Domane+ LT",
-    "GNAME": "domane_plusLT.png",
-    "COSTPRICE": "8149.99",
-    "MSRP": "8149.99",
-    "QTYONHAND": "2",
-    "DESC": "Domane+ LT is a carbon drop-bar electric bike designed for roadies who want an authentic road bike experience with an extra boost. The sleek and efficient Fazua drive system kicks things up a notch when you need it—like riding into a headwind or beating your buddy up a climb—but doesn't drag or hold you back when it's not in use.",
+    "PNAME": "Supercycle Camellia Comfort Bike",
+    "GNAME": "supercycle_camellia_comfort.png",
+    "COSTPRICE": "249.99",
+    "MSRP": "249.99",
+    "QTYONHAND": "20",
+    "DESC": "Supercycle Camellia Comfort Bike with a steel 16 inches (40 cm) frame",
     "QTYBACKORDER": "14",
-    "BRAND": "Trek"
+    "BRAND": "Supercycle"
   },
   {
     "ID": "IX-0015",
-    "PNAME": "Rail 5",
-    "GNAME": "rail_5.png",
-    "COSTPRICE": "7349.99",
-    "MSRP": "7349.99",
-    "QTYONHAND": "18",
-    "DESC": "Rail 5 is an electric mountain bike built for ripping the big stuff. It features the same high-end trail tech as our analog trail bikes, plus a powerful new Bosch drive system that's basically like having your own shuttle.",
-    "QTYBACKORDER": "12",
-    "BRAND": "Trek"
+    "PNAME": "Supercycle Classic Cruiser Men's Retro Comfort Bike",
+    "GNAME": "supercycle_classic_cruiser_men.png",
+    "COSTPRICE": "199.99",
+    "MSRP": "199.99",
+    "QTYONHAND": "10",
+    "DESC": "Supercycle Classic Cruiser Men's Retro Comfort Bike with a high-tensile steel frame",
+    "QTYBACKORDER": "5",
+    "BRAND": "Supercycle"
   }
 ]
