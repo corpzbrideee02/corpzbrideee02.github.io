@@ -38,9 +38,9 @@
     "GNAME": "domane_plusLT.png",
     "COSTPRICE": "8149.99",
     "MSRP": "8149.99",
-    "QTYONHAND": "2",
+    "QTYONHAND": "10",
     "DESC": "Domane+ LT is a carbon drop-bar electric bike designed for roadies who want an authentic road bike experience with an extra boost. The sleek and efficient Fazua drive system kicks things up a notch when you need it—like riding into a headwind or beating your buddy up a climb—but doesn't drag or hold you back when it's not in use.",
-    "QTYBACKORDER": "14",
+    "QTYBACKORDER": "0",
     "BRAND": "Trek"
   },
   {
@@ -49,9 +49,9 @@
     "GNAME": "rail_5.png",
     "COSTPRICE": "7349.99",
     "MSRP": "7349.99",
-    "QTYONHAND": "18",
+    "QTYONHAND": "5",
     "DESC": "Rail 5 is an electric mountain bike built for ripping the big stuff. It features the same high-end trail tech as our analog trail bikes, plus a powerful new Bosch drive system that's basically like having your own shuttle.",
-    "QTYBACKORDER": "12",
+    "QTYBACKORDER": "0",
     "BRAND": "Trek"
   },
   {
