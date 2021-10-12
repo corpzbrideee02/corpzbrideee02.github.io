@@ -1296,10 +1296,10 @@ button:focus {
 		display: inline-block;
 	}
 
-	.mu-team-content .row > div {
+	/*.mu-team-content .row > div {
 		width: 49.5%;
 		float: left;
-	}
+	}*/
 
 	.mu-testimonial-slide li {
 		padding: 0 15px;
