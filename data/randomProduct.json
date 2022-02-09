@@ -1,0 +1,114 @@
+{
+	"products": [
+		{
+			"id": 150,
+			"name": "Mens Casual Slim Fit",
+			"type": "physical",
+			"sku": "MNC-SLIM-1",
+			"description": "<h3><strong>The color could be slightly different between on the screen and in practice.</strong></h3>Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.
+            \n",
+			"price": 160,
+			"search_keywords": "",
+			"meta_description": "<h3><strong>The color could be slightly different between on the screen and in practice.</strong></h3>Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.
+            \n",
+			"primary_image": {
+				"description": "Men's Clothing",
+				"url_standard": ""
+			},
+			"options": [],
+			"modifiers": [
+				{
+					"id": 156,
+					"name": "name",
+					"display_name": "Full Name",
+					"type": "text",
+					"required": false,
+					"config": {
+						"default_value": "",
+						"text_characters_limited": true,
+						"text_min_length": 1,
+						"text_max_length": 50
+					},
+					"option_values": []
+				},
+				{
+					"id": 159,
+					"name": "Delivery Frequency",
+					"display_name": "Subscribe & Save",
+					"type": "radio_buttons",
+					"required": true,
+					"config": [],
+					"option_values": [
+						{
+							"id": 112,
+							"option_id": 159,
+							"label": "One-time",
+							"is_default": true
+						},
+						{
+							"id": 113,
+							"option_id": 159,
+							"label": "Monthly (save 10%)",
+							"is_default": false
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 151,
+			"name": "MBJ Women's Solid Short Sleeve Boat Neck V",
+			"type": "physical",
+			"sku": "MBJ-WSS-1",
+			"description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.\n",
+			"price": 240,
+			"search_keywords": "",
+			"page_title": "women's clothing",
+			"meta_description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+			"primary_image": {
+				"id": 470,
+				"description": "women's clothing",
+				"url_standard": ""
+			},
+			"options": [],
+			"modifiers": [
+				{
+					"id": 156,
+					"name": "name",
+					"display_name": "Full Name",
+					"type": "text",
+					"required": false,
+					"config": {
+						"default_value": "",
+						"text_characters_limited": true,
+						"text_min_length": 1,
+						"text_max_length": 50
+					},
+					"option_values": []
+				},
+				{
+					"id": 159,
+					"name": "Delivery Frequency",
+					"display_name": "Subscribe & Save",
+					"type": "radio_buttons",
+					"required": true,
+					"config": [],
+					"option_values": [
+						{
+							"id": 112,
+							"option_id": 159,
+							"label": "One-time",
+							"is_default": true
+						},
+						{
+							"id": 113,
+							"option_id": 159,
+							"label": "Monthly (save 10%)",
+							"is_default": false
+						}
+					]
+				}
+			]
+		}
+	]
+}
