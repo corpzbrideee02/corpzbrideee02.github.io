@@ -1039,6 +1039,11 @@ button:focus {
 /* CONTACT US */
 /*--------------------*/
 
+#personal-links{
+    text-align: center;
+}
+
+
 #mu-contact {
 	background-color: #f8f8f8;
 	display: inline;
