@@ -358,6 +358,8 @@ button:focus {
 	top: 0;
 	right: 0;
 	opacity: 0.92;
+    
+    background: none;
 }
 
 .mu-featured-slider-content {
@@ -365,7 +367,7 @@ button:focus {
 	left: 20%;
 	right: 20%;
 	bottom: 0;
-	top: 35%;
+	top: 15%;
 	text-align: center;
 
 }
@@ -380,7 +382,7 @@ button:focus {
 .mu-featured-slider-content p {
 	color: #fff;
 	padding: 0 100px;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 .mu-featured-slider-content .mu-primary-btn{
